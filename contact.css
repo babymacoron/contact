@@ -121,10 +121,18 @@ footer{
   margin: 0 3%;
 }
 
+.contact:last-child{
+  border-bottom: none;
+}
+
 .name{
   list-style: none;
 }
 
+.fa-line{
+  font-size: 100px;
+  color:#00B900;
+}
 
 .over{
   color: gray;
