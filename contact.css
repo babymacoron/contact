@@ -6,6 +6,9 @@ header{
   background:linear-gradient(to bottom,#FFD5EC,white);
   height: 130px;
   width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 footer{
@@ -116,6 +119,14 @@ footer{
   color: gray;
 }
 
+.main{
+  margin-top: 230px;
+}
+
+.main h2{
+  background-color: #FFFDE6;
+}
+
 .contact{
   border-bottom: solid 5px #90ee90;
   margin: 0 3%;
@@ -132,6 +143,16 @@ footer{
 .fa-line{
   font-size: 100px;
   color:#00B900;
+}
+
+.fa-envelope{
+  font-size: 100px;
+  color: gray;
+}
+
+.fa-phone{
+  font-size: 100px;
+  color: gray;
 }
 
 .over{
