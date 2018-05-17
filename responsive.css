@@ -21,9 +21,7 @@
     text-align: center;
   }
 
-  .fa-line,.fa-envelope,.fa-phone{
-    display: inline-block;
-    width: 100%;
+  .line,.mail,.call{
     text-align: center;
   }
 
