@@ -143,16 +143,19 @@ footer{
 .fa-line{
   font-size: 100px;
   color:#00B900;
+  display:block;
 }
 
 .fa-envelope{
   font-size: 100px;
   color: gray;
+  display:block;
 }
 
 .fa-phone{
   font-size: 100px;
   color: gray;
+  display:block;
 }
 
 .over{
