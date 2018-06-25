@@ -141,6 +141,10 @@ footer{
   list-style: none;
 }
 
+.line p span{
+  color: #00B900;
+}
+
 .fa-line{
   font-size: 100px;
   color:#00B900;
